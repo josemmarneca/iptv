@@ -9,6 +9,9 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 #EXTINF:0,video 3 - ElephantsDream
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
+#EXTINF:-1  tvg-name="TVI FHD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="Normal"
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58788.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="----??| PORTUGAL |??----" tvg-logo="" group-title="PORTUGAL",----??| PORTUGAL |??----
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/139877.ts
 #EXTINF:-1 tvg-id="" tvg-name="---??| SPORTS |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlcLt86PdNBA7goJbTySBPvpAX2yB_aaJD0TR80H_eUS0aLJEWzMu6rvJF&s" group-title="PORTUGAL",---??| SPORTS |??---
@@ -99,8 +102,7 @@ http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58785.ts
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58786.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| TVI FICCAO HD" tvg-logo="http://one-iptv.com/imageslogo/TVIFiccao.pt.png" group-title="PORTUGAL",|.PT.| TVI FICCAO HD
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58787.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| TVI FHD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="PORTUGAL",|.PT.| TVI FHD
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58788.ts
+
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| TVI HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="PORTUGAL",|.PT.| TVI HD
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58789.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| TVI 24 HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi24.pt.png" group-title="PORTUGAL",|.PT.| TVI 24 HD
