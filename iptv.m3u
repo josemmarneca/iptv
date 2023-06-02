@@ -1,42 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal ➾ LifeStyle",PT: RTP 1
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1404
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal ➾ LifeStyle",PT: RTP 2
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1406
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal ➾ LifeStyle",PT: SIC
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1408
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal ➾ News",PT: TVI
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1410
-
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal ➾ LifeStyle",PT: RTP 3
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1418
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cdbc2f555b8d1e89eb34575db4b04aab.png" group-title="Portugal",PT: RTP Arena
-http://37.49.230.42:8080/8228218d/5b5e7d0577/290673
-#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="Portugal ➾ LifeStyle",PT: RTP Açores
-http://37.49.230.42:8080/8228218d/5b5e7d0577/2055
-#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal ➾ LifeStyle",PT: RTP Madeira
-http://37.49.230.42:8080/8228218d/5b5e7d0577/278558
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memória" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="Portugal ➾ LifeStyle",PT: RTP Memória
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1425
-#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP África" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="Portugal ➾ LifeStyle",PT: RTP África
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1424
-#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/83ccd96060ac85f5dc1edfb7a078cb99.jpg" group-title="Portugal ➾ LifeStyle",PT: SAUDE+
-http://37.49.230.42:8080/8228218d/5b5e7d0577/81973
-
-#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC Caras" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal ➾ LifeStyle",PT: SIC Caras
-http://37.49.230.42:8080/8228218d/5b5e7d0577/5910
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/54df892171325d99e6c38d3b28d2df7c.jpg" group-title="Portugal",PT: SIC Internacional
-http://37.49.230.42:8080/8228218d/5b5e7d0577/297535
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal ➾ LifeStyle",PT: SIC K
-http://37.49.230.42:8080/8228218d/5b5e7d0577/4021
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal ➾ Movie",PT: SIC Mulher
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1427
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal ➾ News",PT: SIC Noticias
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1416
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal ➾ LifeStyle",PT: SIC Radical
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1429
-
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Portugal ➾ Food",PT: 24 Kitchen
 http://37.49.230.42:8080/8228218d/5b5e7d0577/2025
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="Portugal ➾ LifeStyle",PT: A Bola TV
@@ -185,7 +146,38 @@ http://37.49.230.42:8080/8228218d/5b5e7d0577/1532
 http://37.49.230.42:8080/8228218d/5b5e7d0577/290678
 #EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: Porto Canal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="Portugal ➾ LifeStyle",PT: Porto Canal
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1419
-
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal ➾ LifeStyle",PT: RTP 1
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1404
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal ➾ LifeStyle",PT: RTP 2
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1406
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal ➾ LifeStyle",PT: RTP 3
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1418
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cdbc2f555b8d1e89eb34575db4b04aab.png" group-title="Portugal",PT: RTP Arena
+http://37.49.230.42:8080/8228218d/5b5e7d0577/290673
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="Portugal ➾ LifeStyle",PT: RTP Açores
+http://37.49.230.42:8080/8228218d/5b5e7d0577/2055
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal ➾ LifeStyle",PT: RTP Madeira
+http://37.49.230.42:8080/8228218d/5b5e7d0577/278558
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memória" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="Portugal ➾ LifeStyle",PT: RTP Memória
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1425
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP África" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="Portugal ➾ LifeStyle",PT: RTP África
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1424
+#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/83ccd96060ac85f5dc1edfb7a078cb99.jpg" group-title="Portugal ➾ LifeStyle",PT: SAUDE+
+http://37.49.230.42:8080/8228218d/5b5e7d0577/81973
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal ➾ LifeStyle",PT: SIC
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1408
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC Caras" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal ➾ LifeStyle",PT: SIC Caras
+http://37.49.230.42:8080/8228218d/5b5e7d0577/5910
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/54df892171325d99e6c38d3b28d2df7c.jpg" group-title="Portugal",PT: SIC Internacional
+http://37.49.230.42:8080/8228218d/5b5e7d0577/297535
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal ➾ LifeStyle",PT: SIC K
+http://37.49.230.42:8080/8228218d/5b5e7d0577/4021
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal ➾ Movie",PT: SIC Mulher
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1427
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal ➾ News",PT: SIC Noticias
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1416
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal ➾ LifeStyle",PT: SIC Radical
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1429
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal ➾ Sports",PT: SPORT TV +
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1481
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal ➾ Sports",PT: SPORT TV 1
@@ -222,9 +214,9 @@ http://37.49.230.42:8080/8228218d/5b5e7d0577/82254
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1448
 #EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="PT: TVCine Top" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal ➾ Movie",PT: TVCine Top
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1446
-
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal ➾ News",PT: TVI
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1410
 #EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI Ficção" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="Portugal ➾ LifeStyle",PT: TVI Ficção
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1421
 #EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal ➾ LifeStyle",PT: TVI Reality
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1423
-
