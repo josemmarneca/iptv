@@ -9,7 +9,7 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 #EXTINF:0,video 3 - ElephantsDream
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
-#EXTINF:12 tvg-name="TVI HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="Normal"
+#EXTINF:12 tvg-name="TVI HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="Normal
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58788.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="----??| PORTUGAL |??----" tvg-logo="" group-title="PORTUGAL",----??| PORTUGAL |??----
